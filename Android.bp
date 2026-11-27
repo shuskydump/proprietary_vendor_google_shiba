@@ -467,7 +467,7 @@ android_app_import {
 }
 
 android_app_import {
-    name: "TetheringEntitlement",
+    name: "TetheringEntitlementShiba",
     owner: "google",
     apk: "proprietary/product/priv-app/TetheringEntitlement/TetheringEntitlement.apk",
     certificate: "platform",

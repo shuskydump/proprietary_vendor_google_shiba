@@ -727,7 +727,7 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleFUSIONPro \
     OemDmTrigger \
     PixelCameraServices \
-    TetheringEntitlement \
+    TetheringEntitlementShiba \
     WfcActivation \
     OemRilHookService \
     PersistentBackgroundCameraServices \
